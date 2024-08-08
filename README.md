@@ -48,6 +48,6 @@ prompt = "what i am doing"
 generated_text = generate_text(prompt, max_length=100)
 print(generated_text)
 ```
-##output
+## output
 
 ![Screenshot (198)](https://github.com/user-attachments/assets/614b6b37-bb91-4e6b-a925-c5a494aa0610)
