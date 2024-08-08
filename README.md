@@ -49,4 +49,5 @@ generated_text = generate_text(prompt, max_length=100)
 print(generated_text)
 ```
 ##output
-![Sample Output][([./images/sample_output.png](https://github.com/venumadhav16/next-word-prediction/blob/f69db972b60929b923b7d4082725ef080515b4ff/Screenshot%20(198).png)](https://github.com/venumadhav16/next-word-prediction/blob/main/Screenshot%20(198).png?raw=true))
+
+![Screenshot (198)](https://github.com/user-attachments/assets/614b6b37-bb91-4e6b-a925-c5a494aa0610)
